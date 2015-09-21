@@ -1,5 +1,2 @@
 <<<<<<< HEAD
 hello!
-=======
-hello world! go!
->>>>>>> v1.0
